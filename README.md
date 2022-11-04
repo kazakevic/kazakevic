@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @kazakevic
+- 👋 Hi, I’m Darjus
+- my projects: https://kriptoinfo.lt and https://laraveltube.com/
