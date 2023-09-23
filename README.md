@@ -3,3 +3,5 @@
 
 Social:
 https://www.linkedin.com/
+https://twitter.com/darkazakevic
+https://phpc.social/@darjus
